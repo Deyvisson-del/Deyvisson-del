@@ -30,7 +30,7 @@
 <br/>
 
 ## ⭐GitHub Stats
-![Deyvisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&theme=shadow_green)
+![Deyvisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green)
 
 ## 🌐Conecte-se comigo
 
