@@ -3,34 +3,38 @@
 ###  Sou um entusiasta de tecnologia, apaixonado por desenvolvimento web e mobile, em busca de oportunidades para aplicar e aprimorar minhas habilidades como desenvolvedor Full Stack. Tenho um conhecimento sólido em linguagens de programação e tecnologias web, como HTML, CSS e JavaScript, e estou sempre em busca de novos aprendizados
 <br/>
 
-## 🧑🏾‍💻Stack de Desenvolvimento
+## 🧑🏾‍💻Stack
 
 <div style="display:inline-block">
   <img/ align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img/ align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img/ align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img/ align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img/ align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img/ align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img/ align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 <br/>
 
-## Estou aprendendo
+## ✍🏾📚Estou aprendendo
 <div style"display:inline-block"> 
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img/ align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img/ align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img/ align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img/ align="center" alt="jwt" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 <br/>
+
+## 🛠️Ferramentas
+<div style="display:inline-block">
+  <img/ align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img/ align="center" alt="figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+  <img/ align="center" alt="VScode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
 
 ## ⭐GitHub Stats
 ![Deyvisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_gree)](https://github.com/anuraghazra/github-readme-stats )
+
 
 ## 🌐Conecte-se comigo
 
