@@ -3,7 +3,7 @@
 ###  Sou um entusiasta de tecnologia, apaixonado por desenvolvimento web e mobile, em busca de oportunidades para aplicar e aprimorar minhas habilidades como desenvolvedor Full Stack. Tenho um conhecimento sólido em linguagens de programação e tecnologias web, como HTML, CSS e JavaScript, e estou sempre em busca de novos aprendizados
 <br/>
 
-## 🧑🏾‍💻Habilidades
+## 🧑🏾‍💻Stack de Desenvolvimento
 
 <div style="display:inline-block">
   <img/ align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,6 +30,7 @@
 
 ## ⭐GitHub Stats
 ![Deyvisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐Conecte-se comigo
 
