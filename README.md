@@ -32,8 +32,15 @@
 </div>
 
 ## ⭐GitHub Stats
-![Deyvisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut-vertical&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_gree)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green&locale=pt-br" alt="Deyvisson GitHub stats" style="width: 44%;">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut-vertical&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_gree&locale=pt-br" alt="Top Langs" style="width: 27%;">
+  </a>
+</div>
+
+
 
 
 ## 🌐Conecte-se comigo
