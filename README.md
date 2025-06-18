@@ -52,3 +52,11 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvissonrafael018@gmail.com)
 <br/>
+
+## 📊 Distribuição de Projetos por Status
+
+![Ativo](https://img.shields.io/badge/Ativo-30%25-4CAF50)
+![Em Andamento](https://img.shields.io/badge/Em_Andamento-25%25-2196F3)
+![Suspenso](https://img.shields.io/badge/Suspenso-15%25-FFC107)
+![Concluído](https://img.shields.io/badge/Concluído-20%25-9C27B0)
+![Cancelado](https://img.shields.io/badge/Cancelado-10%25-F44336)
