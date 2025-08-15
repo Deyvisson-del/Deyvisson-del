@@ -1,9 +1,9 @@
 <h1 align=center>👨🏾‍💻Deyvisson Rafael Lima da Silva</h1>
-</br>
+
 <h2>👋🏾 Olá eu sou o Deyvisson Rafael, sou desenvolvedor back-end (JAVA, C#).</h2>
    <h3 >Sou um entusiasta de tecnologia, apaixonado por programação e seus paradigmas, estou em busca de oportunidades para aplicar e aprimorar minhas habilidades como desenvolvedor back-end. Tenho um conhecimento sólido em Java e C# e tecnologias web, e estou sempre em busca de novos aprendizados</h3>
 
-<br/>
+</br>
 <h2 align=center>🛠️Tools</h2>
   <p align = center>
   <a href="https://skillicons.dev">    
@@ -11,18 +11,12 @@
   </a>
 </p>
 
-<br/>
-
 <h2 align = center> ✍🏾📚Estou aprendendo </h2>
-
 <p align=center>
   <a href="https://skillicons.dev">    
     <img src="https://skillicons.dev/icons?i=py,angular" />
   </a>
-  
 </p>
-
-<br/>
 
 <h2 align=center>🌐Conecte-se comigo</h2>
 
