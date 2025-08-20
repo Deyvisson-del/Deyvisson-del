@@ -7,14 +7,14 @@
 <h2 align=center>🛠️Tools</h2>
   <p align = center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,windows,cs,dotnet,visualstudio,linux,java,spring,idea,ubuntu,debian,redhat,mongodb,mysql,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,cs,dotnet,visualstudio,linux,java,spring,idea,ubuntu,debian,redhat,mongodb,mysql,vscode&perline=9" />
   </a>
 </p>
 
 <h2 align = center> ✍🏾📚Estou aprendendo </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=py,angular,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=py,angular,docker,kubernetes,aws" />
   </a>
 </p>
 
