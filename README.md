@@ -14,7 +14,7 @@
 <h2 align = center> ✍🏾📚Estou aprendendo </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=py,angular" />
+    <img src="https://skillicons.dev/icons?i=py,angular,kubernetes" />
   </a>
 </p>
 
