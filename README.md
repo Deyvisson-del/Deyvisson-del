@@ -18,8 +18,11 @@
   </a>
 </p>
 
+<h2 align= center>⭐Git Stats</h2>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green&locale=pt-br" alt="Deyvisson GitHub stats" style="width: 44%;">  <a href="https://github.com/anuraghazra/github-readme-stats">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut-vertical&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_gree&locale=pt-br" alt="Top Langs" style="width: 27%;">  </a></div>
 
-<h2 align=center>🌐Conecte-se comigo</h2>
+
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558197501837)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/life.script.code/)
