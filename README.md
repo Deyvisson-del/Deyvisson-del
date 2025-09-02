@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fc04&height=120&section=header"/>
 <h1 align=center>👨🏾‍💻Deyvisson Rafael Lima da Silva</h1>
 
 <h2>👋🏾 Olá eu sou o Deyvisson Rafael, sou desenvolvedor back-end (JAVA, C#).</h2>
@@ -30,3 +31,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvisson-rafael-lima-da-silva/)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvissonrafael018@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fc04&height=120&section=footer"/>
+
