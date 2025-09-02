@@ -1,7 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fc04&height=120&section=header"/>
-<h1 align=center>👨🏾‍💻Deyvisson Rafael Lima da Silva</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=100&section=header"/>
 
-<h2>👋🏾 Olá eu sou o Deyvisson Rafael, sou desenvolvedor back-end (JAVA, C#).</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0071fc&center=true&vCenter=true&width=700&lines=👋🏾Olá%2C+sou+Deyvisson+Rafael!!!;Desenvolvedor+Back-end+em+evolução...👨🏾‍💻;Java+%7C+C%23+%7C+APIs"/>
+</h1>
+
    <h3 >Sou um entusiasta de tecnologia, apaixonado por programação, estou em busca da primeira oportunidade para aplicar e aprimorar minhas habilidades como desenvolvedor back-end. Tenho um conhecimento sólido em Java e C# e tecnologias web, e estou sempre em busca de novos aprendizados</h3>
 
 </br>
@@ -20,9 +22,15 @@
 </p>
 
 <h2 align= center>⭐Git Stats</h2>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_green&locale=pt-br" alt="Deyvisson GitHub stats" style="width: 44%;">  <a href="https://github.com/anuraghazra/github-readme-stats">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut-vertical&show_icons=true&border_color=0dff00&text_color=0dff00&title_color=0dff00&icon_color=0dff00&bg_color=000003&theme=shadow_gree&locale=pt-br" alt="Top Langs" style="width: 27%;">  </a></div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=0071fc&text_color=0071fc&title_color=0071fc&icon_color=0071fc&bg_color=000000&locale=pt-br" alt="Deyvisson GitHub stats" style="width: 44%;">  <a href="https://github.com/anuraghazra/github-readme-stats">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut-vertical&show_icons=true&border_color=0071fc&text_color=0071fc&title_color=0071fc&icon_color=0071fc&bg_color=000003&theme=shadow_gree&locale=pt-br" alt="Top Langs" style="width: 27%;"></a></div>
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deyvisson-del&theme=transparent" 
+      alt="Resumo do Perfil GitHub" 
+    />
+  </div>
 
 ## 🌐Conecte-se comigo
 
@@ -32,5 +40,5 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvissonrafael018@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fc04&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=100&section=footer"/>
 
