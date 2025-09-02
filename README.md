@@ -8,7 +8,7 @@
 
 </br>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=03b6fc&center=true&vCenter=true&width=900&lines=🛠️Tools/Ferramentas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=03b6fc&center=true&vCenter=true&width=900&lines=🛠️Tools/Ferramentas"/>
 </h2>
 
   <p align = center>
@@ -19,7 +19,7 @@
 
 </br>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=03b6fc&center=true&vCenter=true&width=900&lines=✍🏾📚+I'm+Learning/+Estou+Aprendendo..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1400&color=03b6fc&center=true&vCenter=true&width=900&lines=✍🏾📚+I'm+Learning/+Estou+Aprendendo..."/>
 </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
@@ -29,7 +29,7 @@
 </br>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=03b6fc&center=true&vCenter=true&width=900&lines=⭐Git+Stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1600&color=03b6fc&center=true&vCenter=true&width=900&lines=⭐Git+Stats"/>
 </h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
