@@ -44,7 +44,7 @@
 
  
   <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=03b6fc&center=true&vCenter=true&width=900&lines=🌐+Connect+with+me/+Conecte-se+comigo"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=03b6fc&center=true&vCenter=true&width=900&lines=🌐+Connect+with+me/+Conecte-se+comigo"/>
 </h2>
 </br>
 
