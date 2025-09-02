@@ -13,19 +13,20 @@
 
   <p align = center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,cs,dotnet,visualstudio,linux,java,spring,idea,ubuntu,debian,redhat,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,cs,dotnet,visualstudio,linux,java,spring,idea,ubuntu,debian,redhat,vscode&perline=8" />
   </a>
 </p>
 
+</br>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=03b6fc&center=true&vCenter=true&width=900&lines=✍🏾📚+I'm+Learning/+Estou+Aprendendo..."/>
 </h2>
-
 <p align=center>
   <a href="https://skillicons.dev">    
     <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,py,angular,docker,kubernetes" />
   </a>
 </p>
+</br>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=03b6fc&center=true&vCenter=true&width=900&lines=⭐Git+Stats"/>
