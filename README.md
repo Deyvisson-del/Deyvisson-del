@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=03b6fc&center=true&vCenter=true&width=900&lines=👋🏾+Olá%2C+sou+Deyvisson+Rafael+!!!;Desenvolvedor+Back-end...👨🏾‍💻;Java+%7C+C%23+%7C+APIs"/>
 </h1>
 
-   <h3>&emsp;Sou um entusiasta de tecnologia apaixonado por programação, em busca da minha primeira oportunidade como desenvolvedor back-end. Tenho conhecimento sólido em Java, C# e tecnologias web, e estou sempre em constante aprendizado para evoluir minhas habilidades e acompanhar as melhores práticas do mercado.</h3>
+   <h3>&emsp;Desenvolvedor Back-End em início de carreira, com sólidos conhecimentos nas linguagens Java e C# e no desenvolvimento de APIs REST. Possuo familiaridade com tecnologias web front-end e estou sempre me capacitando em novas ferramentas e metodologias ágeis para entregar código limpo, eficiente e alinhado às demandas do mercado.</h3>
 
 </br>
 <h2 align="center">
