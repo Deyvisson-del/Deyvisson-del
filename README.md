@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=03b6fc&center=true&vCenter=true&width=900&lines=👋🏾+Olá%2C+sou+Deyvisson+Rafael+!!!;Desenvolvedor+Back-end...👨🏾‍💻;Java+%7C+C%23+%7C+APIs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=03b6fc&center=true&vCenter=true&width=900&lines=👋🏾+Olá%2C+sou+Deyvisson+Rafael+!!!;Desenvolvedor+Back-end...👨🏾‍💻;+%7C+C%23+%7C+APIs"/>
 </h1>
 
    <h3>&emsp;Desenvolvedor Back-End em início de carreira, com sólidos conhecimentos nas linguagens Java e C# e no desenvolvimento de APIs REST. Possuo familiaridade com tecnologias web front-end e estou sempre me capacitando em novas ferramentas e metodologias ágeis para entregar código limpo, eficiente e alinhado às demandas do mercado.</h3>
