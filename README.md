@@ -32,10 +32,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1600&color=03b6fc&center=true&vCenter=true&width=900&lines=⭐Git+Stats"/>
 </h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deyvisson-del&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=0071fc&text_color=0071fc&title_color=0071fc&icon_color=0071fc&bg_color=000000&locale=pt-br" alt="Deyvisson GitHub stats" style="width: 44%;">  <a href="https://github.com/anuraghazra/github-readme-stats">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvisson-del&layout=donut-vertical&show_icons=true&border_color=0071fc&text_color=0071fc&title_color=0071fc&icon_color=0071fc&bg_color=000003&theme=shadow_gree&locale=pt-br" alt="Top Langs" style="width: 27%;"></a></div>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: ;">
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deyvisson-del&theme=transparent" 
       alt="Resumo do Perfil GitHub" 
