@@ -19,7 +19,7 @@
 
 </br>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1400&color=03b6fc&center=true&vCenter=true&width=900&lines=✍🏾📚+I'm+Learning/+Estou+Aprendendo..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1400&color=03b6fc&center=true&vCenter=true&width=900&lines=✍🏾📚+I'm+Learning/Estou+Aprendendo..."/>
 </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
@@ -27,8 +27,7 @@
   </a>
 </p>
 </br>
-
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1600&color=03b6fc&center=true&vCenter=true&width=900&lines=⭐Git+Stats"/>
 </h2>
 
@@ -38,7 +37,19 @@
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deyvisson-del&theme=transparent" 
       alt="Resumo do Perfil GitHub" 
     />
-  </div>
+  </div> -->
+  
+  <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=03b6fc&center=true&vCenter=true&width=900&lines=📈+Recent+Activity/Atividades+Recentes"/>
+</h2>
+
+<div align="center">
+
+![Deyvisson Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deyvisson-del\&theme=tokyo-night\&hide_border=true)
+
+</div>
+
+
 
  
   <h2 align="center">
