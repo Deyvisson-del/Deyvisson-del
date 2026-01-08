@@ -13,7 +13,7 @@
 
   <p align = center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,windows,cs,dotnet,visualstudio,linux,java,spring,idea,ubuntu,debian,redhat,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=mysql,gitlab,postman,windows,cs,dotnet,visualstudio,linux,java,spring,idea,ubuntu,debian,vscode&perline=8" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,py,docker,kubernetes,vite,react,js,ts" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,js,ts" />
   </a>
 </p>
 </br>
