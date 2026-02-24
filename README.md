@@ -23,7 +23,7 @@
 </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ts,rust" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ts,c,rust" />
   </a>
 </p>
 </br>
@@ -47,11 +47,7 @@
 
 ![Deyvisson Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deyvisson-del\&theme=tokyo-night\&hide_border=true)
 
-</div>
-
-
-
- 
+</div> 
   <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1800&color=03b6fc&center=true&vCenter=true&width=900&lines=🌐+Connect+with+me/+Conecte-se+comigo"/>
 </h2>
