@@ -13,7 +13,7 @@
 
   <p align = center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=mysql,gitlab,postman,windows,cs,dotnet,visualstudio,linux,ubuntu,debian,java,spring,idea,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=mysql,gitlab,postman,windows,cs,dotnet,visualstudio,linux,ubuntu,debian,mint,java,spring,idea,vscode&perline=7" />
   </a>
 </p>
 
