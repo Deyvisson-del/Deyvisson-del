@@ -23,7 +23,7 @@
 </h2>
 <p align=center>
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ts,c,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ts,c,cpp,rust,postgres" />
   </a>
 </p>
 </br>
